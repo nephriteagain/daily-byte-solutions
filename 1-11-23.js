@@ -1,3 +1,5 @@
+
+
 /**
  * This question is asked by Google. You are given two strings, 
  * s and t which only consist of lowercase letters. 
