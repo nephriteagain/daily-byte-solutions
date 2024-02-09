@@ -43,6 +43,7 @@ function bfsRecursion(matrix, visited, current) {
  */
 function getLargestPondSize(land) {
     let largestPondSize = 0;
+    /**@type {Set<`${number}:${number}`>} */
     const visited = new Set();
 
     for (let i = 0; i < land.length; i++) {
